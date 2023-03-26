@@ -1,4 +1,7 @@
-# QGIS_Seg_Porcess  
+# QGIS_Seg_Process  
+
+## What is it for?
+In segmentaion 
 
 ## Setup  
 Output file like  
